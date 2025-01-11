@@ -1,0 +1,160 @@
+@media screen and (max-width: 1170px) {
+    .base {
+        padding: 60px 20px;
+    }
+
+    p {
+        margin: 0 10px;
+        font-size: 55px;
+    }
+
+    .last {
+        max-width: 450px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .hole {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    p {
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    .hole {
+        width: 300px;
+    }
+
+    .third {
+        width: 280px;
+    }
+
+    p {
+        margin: 0 5px;
+    }
+}
+
+@media screen and (max-width: 825px) {
+    .hole {
+        margin-right: 5px;
+        margin-left: 5px;
+        width: 220px;
+        box-sizing: border-box;
+    }
+
+    .second {
+        width: 180px;
+    }
+
+    .third {
+        width: 230px;
+    }
+
+    .last {
+        width: 280px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .hole {
+        width: 170px;
+    }
+
+    .second {
+        width: 90px;
+    }
+
+    .third {
+        width: 180px;
+    }
+
+    .last {
+        width: 200px;
+    }
+}
+
+
+@media screen and (max-width: 715px) {
+    p {
+        font-size: 40px;
+    }
+
+    .hole {
+        width: 120px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .second {
+        width: 70px;
+    }
+
+    .third {
+        width: 125px;
+    }
+
+    .last {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .hole {
+        margin: 0;
+        height: 35px;
+    }
+
+    .second {
+        width: 40px;
+    }
+
+    .third {
+        width: 100px;
+    }
+
+    .last {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    p {
+        font-size: 35px;
+    }
+
+    .effort {
+        margin-right: 0;
+    }
+
+    .third {
+        width: 70px;
+    }
+}
+
+@media screen and (max-width: 495px) {
+    p {
+        font-size: 25px;
+    }
+
+    .hole {
+        height: 25px;
+    }
+
+    .second {
+        width: 40px;
+    }
+
+    .last {
+        width: 180px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .base {
+        padding: 60px 10px;
+    }
+}
